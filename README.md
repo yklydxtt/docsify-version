@@ -4,12 +4,12 @@
 
 # 使用方法
 
-在 html 中配置
+在 html 中配置appVersion参数
 
 ```
 <script>
     window.$docsify ={
-        appVersion:'1.0.1'
+        appVersion:'v2.4.0'
     }
 </script>
 ```
@@ -27,5 +27,5 @@
 ### HFish <%- version %>
 
 ```
-启动dicisfy服务可以看到效果   
+启动dicsify服务可以看到效果   
 ![image](https://user-images.githubusercontent.com/52593709/122228769-c18f5f80-ceea-11eb-820a-fca2bdce8e00.png)

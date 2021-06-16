@@ -1,6 +1,6 @@
 # docsify-version
 
-使用 docisfy 文档中自由添加变量的插件
+使用 docisfy 文档中自由添加变量的插件（1.x版本只能添加version变量）
 
 # 使用方法
 

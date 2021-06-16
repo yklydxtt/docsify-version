@@ -1,6 +1,6 @@
 # docsify-version
 
-使用 docisfy 参数修改你的应用版本的插件
+使用 docisfy 文档中使用你的应用版本变量的插件
 
 # 使用方法
 
@@ -17,5 +17,15 @@
 引入
 
 ```
-<script src="" ></script>
+<script src="https://cdn.jsdelivr.net/gh/yklydxtt/docsify-version@1.0.1/index.js" ></script>
 ```
+
+在markdown文件中使用   
+```
+# 下载
+
+### HFish <%- version %>
+
+```
+启动dicisfy服务可以看到效果   
+![image](https://user-images.githubusercontent.com/52593709/122228769-c18f5f80-ceea-11eb-820a-fca2bdce8e00.png)

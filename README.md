@@ -1,6 +1,9 @@
 # docsify-version
 
-使用 docisfy 文档中自由添加变量的插件（1.x版本只能添加version变量）
+### 功能
+- 使用 docisfy 文档中自由添加变量的插件（1.x版本只能添加version变量）
+- 在markdown中像使用模板语法一样书写变量   
+[点此查看2.x文档](https://github.com/yklydxtt/docsify-version/tree/v2.0.0#readme)
 
 # 使用方法
 

@@ -1,0 +1,22 @@
+{
+  "name": "docsify-version",
+  "version": "2.0.1",
+  "description": "使用 docisfy 参数修改你的应用版本的插件",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yklydxtt/docsify-version.git"
+  },
+  "author": "yklydxtt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yklydxtt/docsify-version/issues"
+  },
+  "homepage": "https://github.com/yklydxtt/docsify-version#readme",
+  "devDependencies": {
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}

@@ -8,7 +8,7 @@
 
 # 使用方法
 
-在 html 中配置 appVersion 参数
+在 html 中配置dv参数
 
 ```
 <script>

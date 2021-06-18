@@ -12,14 +12,16 @@
 
 ```
 <script>
-    dv: {
-        model: {
-            version: 'v2.4.0',
-            data:{
-                title: '下载'
-            }
-        }
-     },
+    window.$docsify={
+      dv: {
+          model: {
+              version: 'v2.4.0',
+              data:{
+                  title: '下载'
+              }
+          }
+       },
+    }
 </script>
 ```
 
@@ -40,3 +42,27 @@
 
 启动 dicsify 服务可以看到效果  
 ![image](https://user-images.githubusercontent.com/52593709/122228769-c18f5f80-ceea-11eb-820a-fca2bdce8e00.png)
+
+## 自定义模板字符串
+默认字符串为“<%”和“%>”   
+如果需要修改：
+```
+<script>
+    window.$docsify={
+      dv: {
+          model: {
+              version: 'v2.4.0'
+          },
+          option:{
+            starter:'{%',
+            ender:'%}'
+          }
+       },
+    }
+</script>
+```
+在 markdown 文件中使用
+
+```
+### HFish {% version %}
+```

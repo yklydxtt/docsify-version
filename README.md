@@ -30,7 +30,7 @@
 ```
 <script src="https://cdn.jsdelivr.net/gh/yklydxtt/docsify-version@2.0.1/dv.min.js" ></script>
 ```
-如果是开发环境，可以引入https://cdn.jsdelivr.net/gh/yklydxtt/docsify-version@2.0.1/dv.min.js
+（如果是开发环境，可以引入https://cdn.jsdelivr.net/gh/yklydxtt/docsify-version@2.0.1/dv.min.js)   
 在 markdown 文件中使用
 
 ```

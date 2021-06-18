@@ -67,4 +67,4 @@
 ### HFish {% version %}
 ```
 
-已经在hfish的官网投入使用
+已经在[hfish](https://hfish.io/)的官网投入使用
